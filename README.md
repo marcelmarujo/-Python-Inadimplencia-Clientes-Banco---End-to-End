@@ -6,7 +6,7 @@ Trabalhando com: Engenharia de dados, machine learning e desenvolvimento de APIs
 ## Estrutura do Projeto
 
 - **requirements.txt**: Arquivo de dependências.
-- **dados**: Armazena os dados brutos, processados e as features.
+- **dados**: Armazena os **DADOS FICTÍCIOS** brutos, processados e as features.
 - **notebooks**: Notebooks Jupyter para exploração e desenvolvimento.
 - **src**: Scripts principais do pipeline.
 - **testes**: Testes unitários para validar o código.
