@@ -16,7 +16,7 @@ venv.bak/
 *.egg-info/
 
 # Data files
-*.csv
+# *.csv
 *.dat
 *.log
 
