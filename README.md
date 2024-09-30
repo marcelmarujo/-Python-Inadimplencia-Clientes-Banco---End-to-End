@@ -1,6 +1,6 @@
 # Previsão de Inadimplência de Clientes de um Banco
 
-Criando um pipeline para prever a inadimplência de clientes com base em dados históricos. Utiliza Python, FastAPI, e testes automatizados para criar um modelo robusto e serviço de previsão realtime.
+Criação de um pipeline para prever a inadimplência de clientes com base em dados históricos. Utiliza Python, FastAPI, e testes automatizados para criar um modelo e serviço de previsão realtime.
 Trabalhando com: Engenharia de dados, machine learning e desenvolvimento de APIs. 
 
 ## Estrutura do Projeto
