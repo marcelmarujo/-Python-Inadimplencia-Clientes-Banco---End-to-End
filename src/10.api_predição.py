@@ -1,3 +1,6 @@
+# .py Python
+# Fazendo a predição
+
 from fastapi import FastAPI
 import joblib
 import pandas as pd

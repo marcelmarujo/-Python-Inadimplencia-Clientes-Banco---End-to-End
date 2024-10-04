@@ -1,3 +1,4 @@
+# .py Python - Adicionando as features 
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
 import os

@@ -1,3 +1,6 @@
+# .py Python - Fazer a Previsão com o Pythonb joblib
+# .py Python
+
 import joblib
 import pandas as pd
 
